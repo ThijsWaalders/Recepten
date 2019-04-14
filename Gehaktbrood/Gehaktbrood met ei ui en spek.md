@@ -1,6 +1,6 @@
 # Gehaktbrood met ei, ui en een omhulsel van spek
 
-4 personen of meer, lekker met gekookte worteltjes en gebakken aardappelen\
+4 persoons hoofdgerecht, lekker met gekookte worteltjes en gebakken aardappelen\
 Oven voorverwarmen op 220 graden
 
 ## Ingrediënten

@@ -1,7 +1,8 @@
-# Ossenhaas met aardappelen / patat
+# Ossenhaas met aardappelen / patat en groentes
 
-Een 4 persoons gerecht: Ossenhaas met aardappelen en groentes.
-Serveertip: Vlaamse frites en lekkere verse groenten van het seizoen.
+4 persoons hoofdgerecht
+
+**Serveertip:** Vlaamse frites en lekkere verse groenten van het seizoen.
 
 ## Ingrediënten
 

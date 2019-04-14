@@ -1,6 +1,6 @@
 # Boerenkool met zoete aardappelsoep
 
-4 persoons superfood soep
+4 persoons soep
 
 ## Ingrediënten
 

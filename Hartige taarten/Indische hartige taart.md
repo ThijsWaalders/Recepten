@@ -1,7 +1,14 @@
 # Indische hartige taart
 
-2 persoons\
-Lekker met een zoetzure komkommersalade
+2 persoons hoofdgerecht, lekker met zoetzure komkommersalade
+
+## Benodigheden
+
+- Deegroller
+- Lage quichevorm
+- Mes
+- SnijplankGarde
+- Kom
 
 ## Ingrediënten
 
@@ -12,6 +19,19 @@ Lekker met een zoetzure komkommersalade
 - 1 rode peper zonder zaad en lijst in stukjes
 - 3 eieren
 - 15 ml melk
+
+## Extra kruiden (optioneel)
+
+- 1 theelepel knoflookpoeder
+- 1 theelepel gemberpoeder
+- 1 theelepel kurkuma
+- 1 theelepel korianderpoeder
+- 1 theelepel komijnpoeder
+- 1 theelepel zout
+- 0,5 theelepel kerriepoeder
+- 0,25 theelepel chilipoeder of cayennepoeder
+- 0,25 theelepel kaneelpoeder
+- 0,25 theelepel peper
 
 ## Bereidingswijze
 
@@ -27,27 +47,6 @@ Draai het vuur uit en voeg de kipblokjes toe.
 6. Verdeel het mengsel over de bodem en schenk er het eimengsel over. Bak de taart 20 minuten op 180
 graden, temper de temperatuur naar 150 graden en laat op deze verlaagde temperatuur nog 15 minuten
 in de oven.
-
-### Benodigheden
-
-- Deegroller
-- Lage quichevorm
-- Mes
-- SnijplankGarde
-- Kom
-
-## Extra kruiden (optioneel)
-
-- 1 theelepel knoflookpoeder
-- 1 theelepel gemberpoeder
-- 1 theelepel kurkuma
-- 1 theelepel korianderpoeder
-- 1 theelepel komijnpoeder
-- 1 theelepel zout
-- 0,5 theelepel kerriepoeder
-- 0,25 theelepel chilipoeder of cayennepoeder
-- 0,25 theelepel kaneelpoeder
-- 0,25 theelepel peper
 
 ### Bron
 

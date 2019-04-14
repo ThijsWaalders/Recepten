@@ -1,6 +1,6 @@
 # Shakshuka
 
-4 persoons (vegetarisch gerecht)
+4 persoons hoofdgerecht (vegetarisch)
 
 ## Ingrediënten
 

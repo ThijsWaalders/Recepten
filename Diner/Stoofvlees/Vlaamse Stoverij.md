@@ -1,6 +1,6 @@
 # Vlaamse Stoverij
 
-Stoofvlees met patat voor 4 personen:
+4 persoons hoofdgerecht, lekker met patat of aardappelen
 
 ## Ingredienten
 
@@ -29,6 +29,6 @@ Stoofvlees met patat voor 4 personen:
 7. Voor de varkenswangen kook je alles in ca. 1,5 uur op een matig vuur mooi zacht. Wanneer je dikke riblappen gebruikt stoof je alles op een sudderpit in ca. 3 uur zacht. Haal het deksel van de pan en laat de stoverij inkoken tot de gewenste dikte. Breng indien nodig verder op smaak met peper en zout.
 
 
-Bron:
+### Bron
 
-[Stoofvlees van Belgische chef-kok Peter Goossens.](https://www.tastyweb.nl/recept/vlaamse/stoverij)
+[Stoofvlees van Belgische chef-kok Peter Goossens](https://www.tastyweb.nl/recept/vlaamse/stoverij)
