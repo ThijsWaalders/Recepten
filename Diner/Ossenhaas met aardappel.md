@@ -6,7 +6,7 @@ Serveertip: Vlaamse frites en lekkere verse groenten van het seizoen.
 ## Ingrediënten
 
 - 50 gram roomboter
-- Pond ossenhaas (kan ook met goede biefstuk)
+- 450/500 gram ossenhaas (kan ook met goede biefstuk)
 - 1 Ui
 - 1 Rode Paprika
 - 150 gr Champignons
