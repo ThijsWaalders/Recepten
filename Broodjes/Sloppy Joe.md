@@ -13,14 +13,17 @@ Een broodje gehakt met tomatensaus.
 - Worchestershiresaus
 - Grove mosterd
 - Bruine suiker
-- Tomaten / Tomatensaus / tomatenblokjes in saus / Ketchup
+- Tomaten / tomatensaus / tomatenblokjes in saus / ketchup / tomatenpuree
 - Peper en zout naar smaak
 
 Optioneel:
+- Paprika poeder
 - Jalapeno peper
 - Ijsbergsla
 - Barbecuesaus
+- Kaas
 - Nacho chips
+- Salami (fijn gesneden, gelijk met de ui toevoegen)
 
 
 ## Bereiding
