@@ -25,8 +25,8 @@ Stoofvlees met patat voor 4 personen:
 3. Doe het vlees erbij, maar houd de jus nog even apart. Voeg de bloem toe, roer goed om en doe de knoflook, tijm en laurier erbij.
 4. Besmeer de sneetjes ontbijtkoek met de mosterd en leg ze, met de mosterdkant op het vlees, in de pan.
 5. Giet het bier en de overgebleven jus van het vlees erbij.
-6. Voeg de fond toe, en doe de deksel op de pan. 
-7. Voor de varkenswangen kook je alles in ca. 1,5 uur op een matig vuur mooi zacht. Wanneer je dikke riblappen gebruikt stoof je alles op een sudderpit in ca. 3 uur zacht. Haal het deksel van de pan en laat de stoverij inkoken tot de gewenste dikte. Breng indien nodig verder op smaak met peper en zout. 
+6. Voeg de fond toe, en doe de deksel op de pan.
+7. Voor de varkenswangen kook je alles in ca. 1,5 uur op een matig vuur mooi zacht. Wanneer je dikke riblappen gebruikt stoof je alles op een sudderpit in ca. 3 uur zacht. Haal het deksel van de pan en laat de stoverij inkoken tot de gewenste dikte. Breng indien nodig verder op smaak met peper en zout.
 
 
 Bron:
