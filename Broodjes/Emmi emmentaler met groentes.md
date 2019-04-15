@@ -1,12 +1,6 @@
 # Emmi Emmentaler met gegrilde groenten
 
-* persoons hoofdgerecht
-
-**Serveertip:**
-
-**Benodigdheden**
-
--
+4 persoons lunchgerecht
 
 ## Ingrediënten
 
