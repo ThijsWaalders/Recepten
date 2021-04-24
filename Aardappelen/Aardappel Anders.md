@@ -1,6 +1,6 @@
-Aardappel anders (4 personen)
+# Aardappel anders (4 personen)
 
-Wat heb je nodig?
+## Wat heb je nodig?
 
 - 400 gram gekookte aardappelen (gebruik een restje)
 - 150 gram spekreepjes
@@ -11,7 +11,7 @@ Wat heb je nodig?
 - groente naar keuze
 - 100 gram geraspte kaas (optioneel)
 
-Hoe doe je het precies?
+## Hoe doe je het precies?
 
 1. Blancheer (dat is kort koken) de groente en snijd de aardappelen in stukjes, of schijfjes.
 2. Bak de spek in de koekenpan en snijd ondertussen de ui en de knoflook.
