@@ -8,6 +8,7 @@ Kombucha maken begint met een scoby, dat is een soort starter wat een beetje lij
   - [Maak je eigen scoby](#maak-je-eigen-scoby)
   - [Maak je eigen Kombucha](#maak-je-eigen-kombucha)
   - [Smaak toevoegen en bottelen](#smaak-toevoegen-en-bottelen)
+      - [Resource](#resource)
 
 ## Maak je eigen scoby
 
@@ -26,10 +27,10 @@ Kombucha maken begint met een scoby, dat is een soort starter wat een beetje lij
 
 **Bereidingswijzer:**
 
-1. Doe 1 liter water in een pan of waterkoker en breng het aan de kook
+1. Doe 0,5 liter (= 1 deel) water in een pan of waterkoker en breng het aan de kook
 2. Zodra het water kookt giet je het in de glazen pot
 3. Voeg 2 thee zakjes toe en laat het 15 minuten intrekken (het liefst zwarte thee dat kan beter tegen hogere temperaturen)
-4. Voeg dan 0,5 cups suiker toe, het liefst biologische rietsuiker en roer het goed door tot de suiker helemaal is opgelost
+4. Voeg dan 7 a 8 suiker toe (= 0,5 cups = 0,25 deel), het liefst biologische rietsuiker en roer het goed door tot de suiker helemaal is opgelost
 5. Laat het daarna goed afkoelen tot onder de 32 graden celsius
 6. Giet het gekochte flesje Kombucha volledig bij in de pot
 7. Doe dan de doek over de pot en doe de elastiek er om heen zodat de doek goed af sluit
@@ -78,3 +79,8 @@ De Kombucha heeft meestal nog wat overgebleven suiker in de pot zitten, maar doo
 6. Laat de flessen nu 2 tot 5 dagen carboneren op een warme plek
 7. Kijk of het carbonatie process al goed bezig is door heel voorzichting de beugel iets te ligten, maar pas op, want er kan veel druk op staan. Als je veel bubbels in de fles ziet komen is het goed
 8. Als dit er goed uit ziet kan je de flessen in de koelkast bewaren
+
+
+#### Resource
+
+[Breweing 10 Bottles of Kombucha for the Price of One?](https://youtu.be/lq-yNxMB8Do)
