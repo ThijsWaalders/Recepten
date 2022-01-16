@@ -25,7 +25,7 @@
 
 ## Bereidingswijze
 
-4. Snij de aubergine en courgette overlngs in dunne plakken
+4. Snij de aubergine en courgette overlangs in dunne plakken
 5. leg op een met bakpapier beklede ovenplaat
 6. Hak de knoflook fijn en meng met de olie, peper zout en smeer dit over de groenten
 7. Zet de groenten ca. 3 minuten onder de hete grill

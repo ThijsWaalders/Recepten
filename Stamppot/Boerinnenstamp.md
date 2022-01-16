@@ -2,7 +2,7 @@
 
 4 persoons hoofdgerecht
 
-**Benodigdheden**
+## Benodigdheden
 
 - Cocktailprikkers
 

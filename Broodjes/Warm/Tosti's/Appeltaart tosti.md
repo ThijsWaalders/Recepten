@@ -4,7 +4,7 @@
 
 **Serveertip:** Wat poedersuiker voor de sier
 
-**Benodigdheden**
+## Benodigdheden
 
 - Koekenpan met deksel
 

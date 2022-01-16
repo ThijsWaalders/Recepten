@@ -2,7 +2,7 @@
 
 Een broodje gehakt met tomatensaus.
 
-## Ingredienten
+## Ingrediënten
 
 - Rundergehakt (hoeveelheid pp)
 - 1 Ui
@@ -17,6 +17,7 @@ Een broodje gehakt met tomatensaus.
 - Peper en zout naar smaak
 
 Optioneel:
+
 - Paprika poeder
 - Jalapeno peper
 - Ijsbergsla
@@ -24,7 +25,6 @@ Optioneel:
 - Kaas
 - Nacho chips
 - Salami (fijn gesneden, gelijk met de ui toevoegen)
-
 
 ## Bereiding
 

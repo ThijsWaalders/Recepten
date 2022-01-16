@@ -4,7 +4,7 @@
 
 **Serveertip:** Lekker met crème fraîche of vanilleroomijs of voeg aan het kruimeldeeg fijngehakte noten toe.
 
-**Benodigdheden**
+## Benodigdheden
 
 - Ovenpannetjes
 

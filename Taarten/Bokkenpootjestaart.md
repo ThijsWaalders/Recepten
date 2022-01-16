@@ -2,7 +2,7 @@
 
 10 persoons
 
-**Benodigdheden**
+## Benodigdheden
 
 - Springvorm 22 - 24 cm
 - Mixer

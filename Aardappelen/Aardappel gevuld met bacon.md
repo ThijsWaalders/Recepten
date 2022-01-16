@@ -4,7 +4,7 @@
 
 **Serveertip:** Lekker op de BBQ
 
-**Benodigdheden**
+## Benodigdheden
 
 - Appelboor
 

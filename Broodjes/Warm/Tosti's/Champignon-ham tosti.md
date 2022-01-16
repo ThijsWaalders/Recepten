@@ -4,7 +4,7 @@
 
 **Serveertip:** Groene salade met een frisse dressing
 
-**Benodigdheden**
+## Benodigdheden
 
 - Tosti ijzer of een koekenpan met deksel
 

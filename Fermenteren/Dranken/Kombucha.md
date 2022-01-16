@@ -6,26 +6,32 @@ Kombucha maken begint met een scoby, dat is een soort starter wat een beetje lij
 
 - [Kombucha](#kombucha)
   - [Maak je eigen scoby](#maak-je-eigen-scoby)
+    - [Wat heb je nodig?](#wat-heb-je-nodig)
+    - [Ingrediënten](#ingrediënten)
+    - [Bereidingswijze](#bereidingswijze)
   - [Maak je eigen Kombucha](#maak-je-eigen-kombucha)
+    - [Wat heb je nodig?](#wat-heb-je-nodig-1)
+    - [Ingrediënten](#ingrediënten-1)
+    - [Bereidingswijze](#bereidingswijze-1)
   - [Smaak toevoegen en bottelen](#smaak-toevoegen-en-bottelen)
       - [Resource](#resource)
 
 ## Maak je eigen scoby
 
-**Wat heb je nodig?**
+### Wat heb je nodig?
 
 - Een grote glazen pot (minimaal net iets groter dan de hoeveelheid flessen die je wilt vullen)
 - Een theedoek of een ander doek wat vliegjes en stof buiten de pot houdt (geen kaasdoek dus)
 - Een elastiek of iets dergelijks om de doek aan de pot te bevestigen
 
-**Ingrediënten:**
+### Ingrediënten
 
 - Kant en klare organisch / RAW / niet gepasturiseerde Kombucha
 - Zwarte thee (2 zakjes)
 - Biologische rietsuiker
 - Water, het liefst gefilterd en/of gedemineraliseerd water (gedistilleerd kan ook)
 
-**Bereidingswijzer:**
+### Bereidingswijze
 
 1. Doe 0,5 liter (= 1 deel) water in een pan of waterkoker en breng het aan de kook
 2. Zodra het water kookt giet je het in de glazen pot
@@ -42,20 +48,20 @@ Nu je de scoby hebt gemaakt kan je deze het best in een andere pot incl wat (sco
 
 ## Maak je eigen Kombucha
 
-**Wat heb je nodig?**
+### Wat heb je nodig?
 
 - Een scoby met wat starter vloeistof / kombucha
 - Glazen pot
 - Theedoek oid, geen kaasdoek want die gaten zijn te groot
 - Glazen flessen (liefst met een beugel sluiting, zo voorkom je dat de fles ontploft, want de druk kan via de rubberen ring naar buiten ontsnappen)
 
-**Ingrediënten:**
+### Ingrediënten
 
 - Zwarte Thee (5 a 6 zakjes voor 4 liter kombucha)
 - Gefilterd water
 - Een scoby met wat Kombucha vocht
 
-**Berijdingswijzer:**
+### Bereidingswijze
 
 1. Breng wat water aan de kook en laat het daarna 30 seconden rusten (het mag iets minder zijn dan de hoeveelheid Kombucha je wilt maken, want je kan tijdens het afkoelen gerust wat koud water toevoegen)
 2. Stop de theezakjes in het water en laat ze 15 minuten trekken

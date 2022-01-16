@@ -4,7 +4,7 @@
 
 **Serveertip:** Maak het gehakt 1 of 2 dagen van te voren
 
-**Benodigdheden**
+## Benodigdheden
 
 - Bakpapier
 - Cakevorm

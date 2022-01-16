@@ -2,7 +2,7 @@
 
 10 personen taart
 
-**Benodigdheden**
+## Benodigdheden
 
 - Grote springvorm
 - Keukenmachine of andere maler

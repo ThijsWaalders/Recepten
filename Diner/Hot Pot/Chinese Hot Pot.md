@@ -21,7 +21,7 @@ Chinese hotpot (ook bekend als Chinese fondue of Chinese stoomboot), bestaat uit
 7. Doe de gefilterde bouillon in een wok of pan die breed en ondiep genoeg is, zodat iedereen gemakkelijk hun ingrediënten erin kunnen dompelen.
 8. Probeer het zo te regelen dat iedereen in een cirkel zit en gemakkelijke toegang heeft tot alles op tafel.
 
-### Benodigheden
+### Benodigdheden
 
 - Wok, klei pot of een Shabu Shabu pot
 - Lange stokjes of fonduenetjes om de ingrediënten aan te prikken / in te bewaren wanneer je ze in de hot pot legt
@@ -29,10 +29,12 @@ Chinese hotpot (ook bekend als Chinese fondue of Chinese stoomboot), bestaat uit
 - Kleine borden voor de saus
 
 
+## Bronnen
 
-Bronnen:
 [wikiHow Chinese hotpot maken](https://nl.wikihow.com/Chinese-hotpot-maken)
+
 [Sichuan Hot Pot](https://thewoksoflife.com/hot-pot/)
+
  - Gember
  - Chilli
  - Anijs

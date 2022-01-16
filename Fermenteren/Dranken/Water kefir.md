@@ -1,11 +1,11 @@
 # Water Kefir
 
-Ingredienten
+## Ingredienten
 
 - Water kefir korrels
 - Ongeraffineerde suiker (50 tot 100 gram per liter water)
 
-Benodigheden
+## Benodigheden
 
 - Wekpot of glazen pot met een plastic zakje bevestigd met een elastiek zodat de lucht kan ontsnappen
 - Zeef
@@ -14,6 +14,7 @@ Benodigheden
 
 Tip: Waterkefir kan niet tegen metalen, dus zorg er voor dat het niet in aanraking komt met metalen, gebruik een houten/kunststof lepel als nodig is en gebruik dus ook geen deksels!
 
+## Bereidingswijze
 
 1. Maak de glazen pot goed schoon (in water laten koken of met witte azijn)
 2. Spoel de korrels schoon met koud water in de zeef

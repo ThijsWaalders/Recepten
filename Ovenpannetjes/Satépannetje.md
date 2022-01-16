@@ -4,7 +4,7 @@
 
 **Serveertip:** Lekker met kroepoek, geurige rijst en komkommersalade en/of vervang het rundvlees door schapen- of geitenstoofvlees
 
-**Benodigdheden**
+## Benodigdheden
 
 - Ovenpannetjes met deksel
 

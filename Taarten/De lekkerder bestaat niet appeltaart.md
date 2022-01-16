@@ -4,7 +4,7 @@
 
 **Serveertip:** Zonder slagroom serveren
 
-**Benodigdheden**
+## Benodigdheden
 
 - Springvorm 28 cm
 - Bakpapier

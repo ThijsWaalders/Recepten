@@ -2,7 +2,7 @@
 
 4 persoons hoofdgerecht, lekker met patat of aardappelen
 
-## Ingredienten
+## Ingrediënten
 
 - 2 kg dikke rib of varkenswangen, in middelgrote stukken gesneden
 - 150 gram ongezouten boter
@@ -12,7 +12,7 @@
 - 2 teentjes geplette knoflook
 - takjes tijm
 - 2 blaadjes laurier
-- 3 ontbijtkoekplakkken
+- 3 plakkken ontbijtkoek
 - 2 el scherpe mosterd
 - 1 flesje donker Trappistenbier
 - 400 ml bruine fond

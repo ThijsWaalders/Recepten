@@ -5,6 +5,7 @@
 ## Ingrediënten
 
 Burger:
+
 - 4 burgerbroodjes - in drieën gesneden
 - 500 gr rundergehakt
 - 1 ei
@@ -15,6 +16,7 @@ Burger:
 - peper en zout
 
 Voor de Big Mac-saus:
+
 - 4 el Heinz sandwichspread naturel
 - 1 el mayonaise
 - 1 el ketchup
@@ -28,8 +30,6 @@ Voor de Big Mac-saus:
 4. Roer voor de Big Mac-saus alle ingrediënten door elkaar
 5. Verdeel een beetje saus over het onderste deel van het hamburgerbroodje. Leg hier ijsbergsla overheen en leg vervolgens een hamburger met cheddar omgekeerd op het broodje. Verdeel een paar plakjes augurk en uisnippers over de hamburger
 6. Leg het middelste deel van het hamburgerbroodje op de augurk en ui. Verdeel hier weer een beetje Big Mac-saus overheen. Leg een hamburger zonder kaas op het broodje, gevolgd door plakjes augurk, gesnipperd ui en uiteindelijk het kapje van het hamburgerbroodje
-
-
 
 ### Bron
 

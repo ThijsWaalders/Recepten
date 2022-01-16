@@ -4,7 +4,7 @@
 
 **Serveertip:** Curry en of Ketchup
 
-**Benodigdheden**
+## Benodigdheden
 
 - Grill / Tosti-ijzer / koekenpan met deksel
 
@@ -16,7 +16,6 @@
 - sambal (en een paar druppels Tabascosaus)
 - zout & peper
 - klontje boter
-
 
 ## Bereidingswijze
 

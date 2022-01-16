@@ -4,7 +4,7 @@
 
 **Serveertip:** Glas koude melk
 
-**Benodigdheden**
+## Benodigdheden
 
 - Bakpapier
 - Bakplaat

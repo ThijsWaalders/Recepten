@@ -4,7 +4,7 @@
 
 **Serveertip:**  Lekker bij gebakken makreelfilet en een groene salade. Vervang de crème fraîche door mascarpone en gebruik parmezaanse kaas voor een volromig italiaans aardappelpannetje.
 
-**Benodigdheden**
+## Benodigdheden
 
 - Ovenpannetjes
 

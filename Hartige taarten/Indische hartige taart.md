@@ -2,7 +2,7 @@
 
 2 persoons hoofdgerecht, lekker met zoetzure komkommersalade
 
-## Benodigheden
+## Benodigdheden
 
 - Deegroller
 - Lage quichevorm

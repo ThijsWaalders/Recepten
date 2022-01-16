@@ -4,7 +4,7 @@
 
 **Serveertip:** Bestrooi het met wat boter/olie voor wat extra knapperigheid
 
-**Benodigdheden**
+## Benodigdheden
 
 - Cupcakeblik
 
@@ -22,10 +22,10 @@
 
 ## Bereidingswijze
 
-2. Leg 2 plakken bacon in lengte deels over elkaar (zodat je een langer stuk krijgt om op te rollen)
-3. Leg daarna de aardappelschijfjes deels op elkaar over de bacon (onderkant aardappel en bacon uitgelijnd)
-4. Bestrooi met geraspte kaas
-5. Rol nu de aardappel+bacon op, plaats het in een cupcake houder en in de oven voor +/- 1 uur
+4. Leg 2 plakken bacon in lengte deels over elkaar (zodat je een langer stuk krijgt om op te rollen)
+5. Leg daarna de aardappelschijfjes deels op elkaar over de bacon (onderkant aardappel en bacon uitgelijnd)
+6. Bestrooi met geraspte kaas
+7. Rol nu de aardappel+bacon op, plaats het in een cupcake houder en in de oven voor +/- 1 uur
 
 ### Bron
 

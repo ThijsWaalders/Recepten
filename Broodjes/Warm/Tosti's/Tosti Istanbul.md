@@ -29,8 +29,8 @@
 
 ## Bereidingswijze
 
-2. Besmeer de sneetjes brood met wat boter en verdeel het mengsel erover
-3. Leg de sneetjes op elkaar en rooster ze in de toaster 3 a 4 min
+1. Besmeer de sneetjes brood met wat boter en verdeel het mengsel erover
+2. Leg de sneetjes op elkaar en rooster ze in de toaster 3 a 4 min
 
 ### Bron
 

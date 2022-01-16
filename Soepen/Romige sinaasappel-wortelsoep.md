@@ -2,7 +2,7 @@
 
 8 persoons voorgerecht
 
-**Benodigdheden**
+## Benodigdheden
 
 - Grote soep pan
 

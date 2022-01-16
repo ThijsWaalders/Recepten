@@ -5,6 +5,7 @@
 ## Ingrediënten
 
 Burger:
+
 - 300 gram rundergehakt
 - 2 plakjes Emmentaler (smelt)kaas
 - 2 hamburgerbroodjes
@@ -15,6 +16,7 @@ Burger:
 - peper en zout
 
 Saus:
+
 - 4 eetlepels mayonaise
 - 1½ koffielepel rokerige barbecuesaus (bijvoorbeeld die van Jack Daniels of Yildriz)
 - 2 koffielepels Pimentón

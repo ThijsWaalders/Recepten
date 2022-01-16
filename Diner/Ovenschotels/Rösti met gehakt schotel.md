@@ -4,7 +4,7 @@
 
 **Serveertip:** Voor erbij: veel salade / groenten, maar stop ook gerust wat meer groenten zoals paprika, courgette en/of aubergine in de schotel zelf.
 
-**Benodigdheden**
+## Benodigdheden
 
 - Ovenschotel
 - Oven

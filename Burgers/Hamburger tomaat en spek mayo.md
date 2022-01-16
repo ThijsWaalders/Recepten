@@ -5,14 +5,16 @@
 ## Ingrediënten
 
 De saus
--8 plakken ontbijtspek
--12 zongedroogde tomaatjes uit de olie\
--6 eetlepels mayonaise
--2 tenen knoflook
--1 theelepel hete saus (wij gebruikten Sriracha)
--1 theelepel appelazijn
+
+- 8 plakken ontbijtspek
+- 12 zongedroogde tomaatjes uit de olie\
+- 6 eetlepels mayonaise
+- 2 tenen knoflook
+- 1 theelepel hete saus (wij gebruikten Sriracha)
+- 1 theelepel appelazijn
 
 De burger
+
 - 500 gram rundergehakt
 - 3 sjalotjes
 - 2 theelepels Worcestershire saus

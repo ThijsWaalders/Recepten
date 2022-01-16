@@ -2,7 +2,7 @@
 
 4 persoons lunch of hoofdgerecht
 
-**Benodigdheden**
+## Benodigdheden
 
 - Keukenmachine of een andere vermaler
 

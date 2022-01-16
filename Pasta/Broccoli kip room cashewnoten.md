@@ -4,7 +4,7 @@
 
 **Serveertip:** Zet de zak cashewnoten en de kaas op tafel
 
-**Benodigdheden**
+## Benodigdheden
 
 - Grote wok
 - Kookpan
