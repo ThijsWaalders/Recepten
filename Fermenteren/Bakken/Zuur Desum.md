@@ -115,8 +115,22 @@ Desem starter bewaren en door blijven voeden, iedere dag met 50 gr water en bloe
 4. 
 5. 6 dagen geleden begonnen met 200 gr meel en 200 gr water, nu na 6 dagen voeden met 50 gr meel en water in totaal 900 gr desemstarter, gooi ***niets*** weg, want we hebben 125 gr nodig om brood te bakken en de rest bewaar je.
 
+### TIPS
+
+- 2% gist voor 500GR meel/bloem
+- De soort / het type bloem zorgt voor de gisting dus dit moet je testen/uitproberen wat voor jou het beste werkt (Gebruik geen gebleekte bloem!!!)
 
 #### Resources
 
 [Hoe maak je zuurdesem?](https://youtu.be/6VH7GXmFZJU)
-[Link2]()
+
+
+
+
+
+1. Weeg je pot
+2. 50 gr bloem
+3. 50 gr tot 75 gr water op de zelfde temperatuur als de bloem
+4. MIX! het mengsel goed door, gebruik geen machine of klop beweging (zoals bijv. bij slagroom)
+5. Sluit NIET luchtdicht af, dus met een theedoek en een elastiek oid.
+6. Gooi een deel van de starter er uit / weg en houdt 35 gr over  
