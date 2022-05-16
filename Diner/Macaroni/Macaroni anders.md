@@ -25,6 +25,7 @@ Voor de saus:
 1. Kook de macaroni gaar in ruim water met wat zout. Je kunt de, gewassen, eieren hierin ook koken, scheelt weer een pannetje en gas.
 
 Ga ondertussen de saus maken:
+
 2. Smelt de boter zachtjes in een steelpan, doe de bloem erbij en al roerend met een garde een paar minuten zachtjes gaar laten worden.
     Giet al roerend de melk erbij. Is alles goed gecombineerd, dan de kaas toevoegen en laten smelten. Naar smaak zout, peper, worcestershiresaus en tabasco toevoegen. De saus mag niet te dik zijn en ook niet te dun. Als het te dik is dan wat melk toevoegen.
 
