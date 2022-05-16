@@ -51,9 +51,8 @@ Wat is het voordeel van een hoger melkzuur gehalte?
 ## Ingrediënten
 
 1. 1 deel water (20 graden Celsius)
-2. 1 deel bloem/meel (rauw, geen bakgraan/meel) (20 graden Celsius)
-3. Gist (verse gist bijv Bruggeman bakkersgist, niet instant gist van bijv dr Oetker)
-
+2. 1 deel bloem/meel/graan zoals tarwemeel, speltmeel, emmertarwe (rauw, geen bakgraan/meel) (20 graden Celsius)
+3. Gist (zelf maken van 1 deel tarwe en 1 deel water, liefst biologisch)
 
 ## Bereidingswijze
 
