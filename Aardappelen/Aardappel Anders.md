@@ -2,12 +2,12 @@
 
 ## Wat heb je nodig?
 
-- 400 gram gekookte aardappelen (gebruik een restje)
+- 600 gram gekookte aardappelen (gebruik een restje)
 - 150 gram spekreepjes
 - 1 grote ui (of 2 kleine)
 - 1 grote teen knoflook
 - 2 eetlepels bloem
-- 500 ml melk, bouillon, room (of een combinatie)
+- 750 ml melk, bouillon, room (of een combinatie)
 - groente naar keuze
 - 100 gram geraspte kaas (optioneel)
 
